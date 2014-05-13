@@ -1,0 +1,14 @@
+Package: spcv_glmnet
+Title: Spatial cross-validation for Lasso and elastic-net generalized linear
+    models
+Description: Spatial cross-validation of elastic net models for some
+    generalized linear models
+Version: 0.1
+Authors: Daniel McGlinn
+Maintainer: Daniel McGlinn <danmcglinn@gmail.com>
+Depends:
+    R (>= 3.0.2)
+Imports:
+    glmnet
+License: MIT license
+LazyData: true
